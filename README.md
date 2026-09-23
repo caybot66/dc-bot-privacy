@@ -64,5 +64,4 @@ Users may request deletion of their stored data at any time:
 
 For questions regarding privacy:
 
-**Discord:** cay.66  
-**Server:** ORAKEL 🔮
+Mail: contact@kma-bot.xyz
