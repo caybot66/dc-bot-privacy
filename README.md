@@ -7,7 +7,7 @@
 
 ## 1. What data does the bot process?
 
-DC BOT by cay.66 processes only Discord-related data required for technical functionality:
+BOT ᴷᴹᴬ processes only Discord-related data required for technical functionality:
 
 - User ID  
 - Username / Nickname  
@@ -44,7 +44,7 @@ The bot uses this data to provide the following features:
 
 ## 4. Access to data
 
-- Only the developer (cay.66) has access  
+- Only the developer has access  
 - No automated external access  
 - No third-party integrations
 
