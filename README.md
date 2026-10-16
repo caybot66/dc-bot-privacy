@@ -1,7 +1,9 @@
 # 🔒 Privacy Policy – BOT ᴷᴹᴬ (DC BOT)
 
-**Last updated:** 16.10.2026
+**Last updated:** 17.10.2026
+
 **Responsible:** cay.66 (Developer & Owner)
+
 **Contact:** contact@kma-bot.xyz
 
 ---
@@ -17,7 +19,7 @@ BOT ᴷᴹᴬ only processes data that Discord provides and that is needed for i
 - **Activity counters:** voice minutes and number of messages per day (only the count)
 
 **The bot does NOT read message content** and does **not** use presence / online status.
-Usernames, nicknames and avatars are **not stored**. They are loaded live from Discord when needed.
+Usernames and avatars are not stored. Only the display name shown in an event sign-up list is kept together with that event.
 
 ## 2. Why is this data processed?
 - Welcome and leave posts
@@ -29,6 +31,7 @@ Usernames, nicknames and avatars are **not stored**. They are loaded live from D
 - Invite tracking
 
 ## 3. How long is data stored?
+- **All stored data is encrypted** on the server (AES encryption). Without the secret key it cannot be read.
 - **Activity counters, logs, finished events and finished giveaways:** deleted automatically after **90 days**
 - **Moderation history** (warnings, notes, bans …): kept as long as the server needs it, or until deletion is requested
 - **Coins, event statistics and payout lists:** kept as long as the bot is used on the server
